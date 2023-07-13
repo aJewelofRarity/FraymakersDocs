@@ -6,6 +6,7 @@ description: Several open source projects to help you learn fraytools from exist
 
 ## Characters
 - [Fraynkie](https://cdn.mcleodgaming.com/fraytools/downloads/17745ac3/fraymakers-character-template-0.1.4.zip) (Fraymakers official template)
+- [MultiversusFraynkie](https://drive.google.com/file/d/1sQLuVh10P-GMW39pY5D5OFSeeJXabsh-/view) (A version of Fraynkie that implements Multiversus Mechanics by Snuffysam)
 - [Template](https://github.com/Sethbones/Fraymakers-Workshop-Source-Repo/tree/main/Characters/Template%20(Beta)) (An early template character made before Fraynkie by Seth)
 - [Annie](https://github.com/aJewelofRarity/FraymakersAnnie) (Annie from Skullgirls by Chubs)
 - [Bomberman](https://drive.google.com/file/d/1wS34f1HFs3mZeUpAxUKdHGSACERFdEH4/view?usp=sharing) (Bomberman by Salt)
@@ -19,3 +20,6 @@ description: Several open source projects to help you learn fraytools from exist
 - [Stage Template](https://cdn.mcleodgaming.com/fraytools/downloads/17745ac3/fraymakers-stage-template-0.1.0.zip) (Fraymakers official template)
 - [Box Viewer](https://github.com/PsnDth/BoxViewer) (Stage to display collisions by PsnDth)
 - [KartFighter](https://github.com/Sethbones/Fraymakers-Workshop-Source-Repo/tree/main/Stages/KartFighter) (A recreation of Kart Fighter in Fraymakers by Seth)
+
+## Misc
+- [Better CPU](https://drive.google.com/file/d/1vYFxLOTo1IWMBfqWvVXrcOJetBuNAOJh/view) (Contains a better AI file to make CPU's better by Snuffysam)
