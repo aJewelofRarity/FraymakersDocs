@@ -11,7 +11,10 @@ description: Several custom made functions to help in fraytools
 
 <tr>
 <td> setAngleSpeed() </td> <td> (angle:Float, speed:Float) </td> <td> Applys a set speed in a set direction instead of using X and Y </td>
-<td style="width:450px">
+<td style="width:550px">
+
+<details>
+<summary>Codeblock</summary>
 
 ```
 function setAngleSpeed(angle:Float, speed:Float) {
@@ -22,6 +25,7 @@ function setAngleSpeed(angle:Float, speed:Float) {
   self.setYSpeed(m_Y * speed);
 }
 ```
+</details>
 </td>
 </tr>
 </table>
