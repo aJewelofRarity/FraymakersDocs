@@ -1,9 +1,8 @@
 ---
 layout: default
 title: API Documentation
+description: See below for a list of all available classes available in the Fraymakers API.
 ---
-
-See below for a list of all available classes available in the Fraymakers API.
 
 ### Entity
 
