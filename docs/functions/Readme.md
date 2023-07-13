@@ -1,6 +1,8 @@
-# Custom Functions
-
-Several custom made functions to help in fraytools
+---
+layout: default
+title: Custom Functions
+description: Several custom made functions to help in fraytools
+---
 
 <table>
 <tr>
