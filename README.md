@@ -6,4 +6,5 @@ This repository contains the scripting API documentation for the game [Fraymaker
 * [Hscript Documentation](docs/hscript/Readme.md)
 * [Community Guides](docs/guides/Readme.md)
 * [Custom Functions](docs/functions/Readme.md)
+* [Open Source Projects](docs/opensource/Readme.md)
 * [FAQ](docs/faq/Readme.md)
