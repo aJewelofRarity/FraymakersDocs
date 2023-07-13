@@ -1,6 +1,6 @@
 ---
 layout: default
-title: docs
+title: API Documentation
 ---
 
 See below for a list of all available classes available in the Fraymakers API.
