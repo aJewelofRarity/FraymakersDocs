@@ -6,7 +6,7 @@ description: Several open source projects to help you learn fraytools from exist
 
 ## Characters
 - [Fraynkie](https://cdn.mcleodgaming.com/fraytools/downloads/17745ac3/fraymakers-character-template-0.1.4.zip) (Fraymakers official template)
-- [Template](https://github.com/Sethbones/Fraymakers-Workshop-Source-Repo/tree/main/Characters/Template%20(Beta) (An early template character made before Fraynkie by Seth)
+- [Template](https://github.com/Sethbones/Fraymakers-Workshop-Source-Repo/tree/main/Characters/Template%20(Beta)) (An early template character made before Fraynkie by Seth)
 - [Annie](https://github.com/aJewelofRarity/FraymakersAnnie) (Annie from Skullgirls by Chubs)
 - [Bomberman](https://drive.google.com/file/d/1wS34f1HFs3mZeUpAxUKdHGSACERFdEH4/view?usp=sharing) (Bomberman by Salt)
 - [Cubey](https://github.com/Sethbones/Fraymakers-Workshop-Source-Repo/tree/main/Characters/Cubey) (Cubey by Seth)
