@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: GlobalSfx
 ---
 
@@ -103,5 +103,3 @@ title: GlobalSfx
 | WHOOSH_1 | String | `n/a` |  |
 | WHOOSH_2 | String | `n/a` |  |
 | WHOOSH_3 | String | `n/a` |  |
-
-

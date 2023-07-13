@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ShakeWaveType
 ---
 
@@ -11,5 +11,3 @@ title: ShakeWaveType
 | FIXED | Int | `2` |  |
 | RANDOM | Int | `1` |  |
 | SINE | Int | `3` |  |
-
-

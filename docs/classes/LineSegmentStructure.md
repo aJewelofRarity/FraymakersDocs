@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: LineSegmentStructure
 ---
 
@@ -8,5 +8,3 @@ title: LineSegmentStructure
 | Function Name | Description |
 | --------------- | ------------- |
 | getType():Int |  |
-
-

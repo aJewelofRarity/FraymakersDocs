@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: StructureStats
 ---
 
@@ -23,5 +23,3 @@ title: StructureStats
 | startX | Float | `0` | Starting X position of the structure |
 | startY | Float | `0` | Starting Y position of the structure |
 | structureType | Int | `null` | The type of collision behavior to use on this structure |
-
-

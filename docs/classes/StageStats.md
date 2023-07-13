@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: StageStats
 ---
 
@@ -12,5 +12,3 @@ title: StageStats
 | camera | GameCameraConfigSettings | `null` | Camera settings for the stage |
 | shadowLayers | Array<StageShadowLayerStatsProps> | `null` | Shadow layers for the stage |
 | spriteContent | String | `null` | The content id path of the sprite to load for this stage |
-
-

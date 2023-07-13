@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Math
 ---
 
@@ -53,5 +53,3 @@ title: Math
 | --------------- | ------------- |
 | getAngleBetween(center:Point, target:Point):Float |  |
 | getDistance(point1:Point, point2:Point):Float |  |
-
-

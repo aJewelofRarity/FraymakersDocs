@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: RectStructure
 ---
 
@@ -8,5 +8,3 @@ title: RectStructure
 | Function Name | Description |
 | --------------- | ------------- |
 | getType():Int |  |
-
-

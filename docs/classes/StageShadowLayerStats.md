@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: StageShadowLayerStats
 ---
 
@@ -12,5 +12,3 @@ title: StageShadowLayerStats
 | id | String | `null` | Identifying string for this shadow layer for targeting with a shadow light source. |
 | maskAnimationId | String | `null` | The name of the animation that contains the mask for this shadow layer |
 | maskSpriteContent | String | `null` | The content id path of the mask sprite to load for this stage shadow layer |
-
-

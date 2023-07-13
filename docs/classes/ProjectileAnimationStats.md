@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ProjectileAnimationStats
 ---
 
@@ -8,5 +8,3 @@ title: ProjectileAnimationStats
 | Function Name | Description |
 | --------------- | ------------- |
 | init():Void |  |
-
-

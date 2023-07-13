@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Docs
+layout: default
+title: docs
 ---
 
 See below for a list of all available classes available in the Fraymakers API.

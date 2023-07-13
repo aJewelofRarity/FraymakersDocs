@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CharacterActions
 ---
 
@@ -32,5 +32,3 @@ Wraps CState values so that equality can be checked directly
 | TILT_DOWN | Int | `null` |  |
 | TILT_FORWARD | Int | `null` |  |
 | TILT_UP | Int | `null` |  |
-
-

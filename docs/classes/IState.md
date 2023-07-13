@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: IState
 ---
 
@@ -17,5 +17,3 @@ title: IState
 | Function Name | Description |
 | --------------- | ------------- |
 | constToString(value:Int):String | Translates constant to a user-readable string. |
-
-

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: StructureEvent
 ---
 
@@ -24,5 +24,3 @@ StructureEvent class represents events that occur on a Structure object
 | Field Name | Type | Initial Value | Description |
 | ------------ | ------ | --------------- | ------------- |
 | data | IStructureEventData | `n/a` |  |
-
-

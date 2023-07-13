@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CustomLineSegmentStructure
 ---
 
@@ -8,5 +8,3 @@ title: CustomLineSegmentStructure
 | Function Name | Description |
 | --------------- | ------------- |
 | updatePoints(points:Array<Float>):Void |  |
-
-

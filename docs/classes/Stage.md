@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Stage
 ---
 
@@ -32,5 +32,3 @@ title: Stage
 | removeEventListener(type:Int, func:Listener):Void |  |
 | resume():Void |  |
 | updateLightboxStats(id:Int, lightboxStats:LightboxStatsProps):Void |  |
-
-

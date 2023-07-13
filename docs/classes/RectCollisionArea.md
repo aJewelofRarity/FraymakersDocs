@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: RectCollisionArea
 ---
 
@@ -8,5 +8,3 @@ title: RectCollisionArea
 | Function Name | Description |
 | --------------- | ------------- |
 | getRectangle():Rectangle |  |
-
-

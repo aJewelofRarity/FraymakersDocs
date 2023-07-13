@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ControlsObject
 ---
 
@@ -67,5 +67,3 @@ Helper class for managing controls inputs
 | rightStickPressed():Bool |  |
 | syncStickAngles():Void |  |
 | toString():String | Returns a user readable string of current inputs |
-
-

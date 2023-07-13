@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AnimationStats
 ---
 
@@ -41,5 +41,3 @@ AnimationStats is the base class for animation behavior of GameObjects.
 | storedChargePercent | Float | `0` | Not to be set directly - tracks the previously stored charge percentage |
 | xSpeedConservation | Float | `1` | Percentage of non-KB X Speed kept on frame 1 |
 | ySpeedConservation | Float | `1` | Percentage of non-KB Y Speed kept on frame 1 |
-
-

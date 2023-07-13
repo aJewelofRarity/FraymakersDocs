@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AnimationEndType
 ---
 
@@ -10,5 +10,3 @@ title: AnimationEndType
 | AUTO | Int | `n/a` | Animation will change depending on the values of AnimationStats.nextState and AnimationStats.nextAnimation |
 | LOOP | Int | `n/a` | Animation will repeat after it finishes |
 | NONE | Int | `n/a` | Animation will stop on the final frame and take no further action |
-
-

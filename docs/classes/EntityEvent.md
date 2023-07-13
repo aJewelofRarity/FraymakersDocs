@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: EntityEvent
 ---
 
@@ -29,5 +29,3 @@ EntityEvent class represents events that occur within an Entity
 | Field Name | Type | Initial Value | Description |
 | ------------ | ------ | --------------- | ------------- |
 | data | IEntityEventData | `n/a` |  |
-
-

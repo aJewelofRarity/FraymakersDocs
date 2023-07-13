@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Point
 ---
 
@@ -36,5 +36,3 @@ title: Point
 | init(x?:Float, y?:Float):TPoint |  |
 | offset(x:Float, y:Float):Void |  |
 | scale(x:Float, y:Float):Void |  |
-
-

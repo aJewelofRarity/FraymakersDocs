@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ApiObject
 ---
 
@@ -26,5 +26,3 @@ Base class for any API-wrapped object
 | makeObject(value:Dynamic):ApiVarObject | Allocates a serializable object. Unlike serializable primitives, this only serializes the pointer to the objects you set it to rather than literally serializing the data within the object. When the historical state of your ApiObject is popped, the reference to the object that existed at the time the history was last pushed will be restored. ApiObjects will be serialized by the engine, however for anonymous structures you must manage their internal history yourself.<br>Parameters:<br>- **value** - Object to store a reference to |
 | makePoint(x?:Float, y?:Float):Point | Allocates a rollback-friendly Point instance that will be automatically destroyed when this object is disposed of. |
 | makeString(value:String):ApiVarString | Allocates a serializable string. Maximum limit of serializable strings is currently 4 per object.<br>Parameters:<br>- **value** - Initial value of string |
-
-

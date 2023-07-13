@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: HsbcColorFilter
 ---
 
@@ -11,5 +11,3 @@ title: HsbcColorFilter
 | contrast | Float | `n/a` |  |
 | hue | Float | `n/a` |  |
 | saturation | Float | `n/a` |  |
-
-

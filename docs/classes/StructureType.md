@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: StructureType
 ---
 
@@ -20,5 +20,3 @@ title: StructureType
 | Function Name | Description |
 | --------------- | ------------- |
 | constToString(value:Int):String | Translates constant to a user-readable string. |
-
-

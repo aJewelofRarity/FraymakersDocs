@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CustomEvent
 ---
 
@@ -24,5 +24,3 @@ Wrapper for an Event object used to extend Event functionality
 | Field Name | Type | Initial Value | Description |
 | ------------ | ------ | --------------- | ------------- |
 | type | Int | `n/a` |  |
-
-

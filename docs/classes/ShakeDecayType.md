@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ShakeDecayType
 ---
 
@@ -22,5 +22,3 @@ title: ShakeDecayType
 | EASE_OUT_QUINT | Int | `null` |  |
 | LINEAR | Int | `null` |  |
 | NONE | Int | `100` |  |
-
-

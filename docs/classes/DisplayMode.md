@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: DisplayMode
 ---
 
@@ -10,5 +10,3 @@ title: DisplayMode
 | Borderless | Int | `1` | Windowed with borders hidden. |
 | Fullscreen | Int | `2` | Full screen mode. |
 | Windowed | Int | `0` | Fully windowed mode. |
-
-

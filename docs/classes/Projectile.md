@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Projectile
 ---
 
@@ -11,5 +11,3 @@ title: Projectile
 | getType():Int |  |
 | updateAnimationStats(stats:Dynamic):Void |  |
 | updateProjectileStats(stats:ProjectileStatsProps):Void |  |
-
-

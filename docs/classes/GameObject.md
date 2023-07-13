@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: GameObject
 ---
 
@@ -70,5 +70,3 @@ title: GameObject
 | updateGameObjectStatsMetadata(stats:Dynamic):Void |  |
 | updateHitboxStats(id:Int, stats:HitboxStatsProps):Void |  |
 | validateHit(hitboxStats:HitboxStats):Bool |  |
-
-

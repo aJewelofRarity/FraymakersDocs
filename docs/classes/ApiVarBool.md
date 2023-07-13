@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ApiVarBool
 ---
 
@@ -9,5 +9,3 @@ title: ApiVarBool
 | --------------- | ------------- |
 | get():Bool |  |
 | set(value:Bool):Bool |  |
-
-

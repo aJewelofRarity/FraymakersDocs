@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Entity
 ---
 
@@ -111,5 +111,3 @@ title: Entity
 | toState(state:Int, animationOverride?:String):Void |  |
 | toggleGravity(status:Bool):Void |  |
 | unattachFromFloor():Void |  |
-
-

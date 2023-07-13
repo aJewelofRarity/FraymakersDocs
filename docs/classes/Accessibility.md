@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Accessibility
 ---
 
@@ -8,5 +8,3 @@ title: Accessibility
 | Function Name | Description |
 | --------------- | ------------- |
 | getOptions():AccessibilityOptionsProps |  |
-
-

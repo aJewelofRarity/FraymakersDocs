@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Shader
 ---
 
@@ -17,5 +17,3 @@ title: Shader
 | --------------- | ------------- |
 | kill():Void |  |
 | setPriority(value:Int):Void |  |
-
-

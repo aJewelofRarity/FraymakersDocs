@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: EaseTimer
 ---
 
@@ -45,5 +45,3 @@ title: EaseTimer
 | isCompleted():Bool |  |
 | reset():Void |  |
 | update():Void |  |
-
-

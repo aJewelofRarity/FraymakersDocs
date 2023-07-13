@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ApiVarFloat
 ---
 
@@ -13,5 +13,3 @@ title: ApiVarFloat
 | inc():Float |  |
 | mult(value:Float):Float |  |
 | set(value:Float):Float |  |
-
-

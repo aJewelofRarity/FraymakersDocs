@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: GlowFilter
 ---
 
@@ -11,5 +11,3 @@ title: GlowFilter
 | color | Int | `n/a` |  |
 | radius | Float | `n/a` |  |
 | solid | Bool | `n/a` |  |
-
-

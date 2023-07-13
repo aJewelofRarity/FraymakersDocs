@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Rectangle
 ---
 
@@ -31,5 +31,3 @@ title: Rectangle
 | intersection(rect:Rectangle):Rectangle |  |
 | intersects(rect:Rectangle):Bool |  |
 | isEmpty():Bool |  |
-
-

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Filter
 ---
 
@@ -8,5 +8,3 @@ title: Filter
 | Function Name | Description |
 | --------------- | ------------- |
 | kill():Void |  |
-
-

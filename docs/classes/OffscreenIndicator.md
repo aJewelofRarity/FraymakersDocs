@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: OffscreenIndicator
 ---
 
@@ -10,5 +10,3 @@ title: OffscreenIndicator
 | applyShaderEffects(drawable:Drawable):Void |  |
 | getSpriteContainer():Container |  |
 | removeShaderEffects(drawable:Drawable):Void |  |
-
-

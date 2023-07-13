@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: StatusEffectType
 ---
 
@@ -33,5 +33,3 @@ title: StatusEffectType
 | Function Name | Description |
 | --------------- | ------------- |
 | constToString(value:Int):String | Translates constant to a user-readable string. |
-
-

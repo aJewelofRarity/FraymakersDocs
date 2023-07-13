@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Sprite
 ---
 
@@ -30,5 +30,3 @@ title: Sprite
 | goToFrameLabel(label:String):Void |  |
 | hasAnimation(animation:String):Bool |  |
 | setPalette(value:Map<Int,Int>):Map<Int,Int> |  |
-
-

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: LobbyEvent
 ---
 
@@ -66,5 +66,3 @@ title: LobbyEvent
 | Field Name | Type | Initial Value | Description |
 | ------------ | ------ | --------------- | ------------- |
 | data | LobbyEventData | `n/a` |  |
-
-

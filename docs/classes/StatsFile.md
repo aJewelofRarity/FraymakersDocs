@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: StatsFile
 ---
 
@@ -8,5 +8,3 @@ title: StatsFile
 | Function Name | Description |
 | --------------- | ------------- |
 | getResource():Resource |  |
-
-

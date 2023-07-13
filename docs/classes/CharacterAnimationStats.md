@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CharacterAnimationStats
 ---
 
@@ -17,5 +17,3 @@ title: CharacterAnimationStats
 | grabLedgeBehind | Bool | `true` | If set to true the entity will be able to grab ledges from behind them if the type of object allows. |
 | grabLedgeRising | Bool | `false` | If set to true the entity will be able to grab ledges while rising. |
 | singleUse | Bool | `false` | Set to true for attack animations that can only be used once when initiated in mid-air. |
-
-

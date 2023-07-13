@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Flags
 ---
 
@@ -12,5 +12,3 @@ title: Flags
 | anyEnabled(sourceFlags:Int, flagsToCheckFor:Int):Bool |  |
 | remove(sourceFlags:Int, flagsToRemove:Int):Int |  |
 | set(sourceFlags:Int, flagsToSet:Int, value:Bool):Int |  |
-
-

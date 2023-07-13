@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: PlayerConfig
 ---
 
@@ -14,5 +14,3 @@ A class containing parameters that configures the default settings of a Characte
 | assistCostume | Int | `-1` | Assigns a costume to the assist. If this value set to a negative number, the default costume will be used. Otherwise this value corresponds to the index of the costume within the assist's costume array. |
 | startAssistCharge | Float | `-1` | Starting assist charge for players. This overrides the startAssistCharge value provided by the level data settings for the match unless set to -1. |
 | unlimitedAssist | Bool | `false` | Unlimited final strongs? |
-
-

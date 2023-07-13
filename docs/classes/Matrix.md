@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Matrix
 ---
 
@@ -27,5 +27,3 @@ title: Matrix
 | rotate(angle:Float):Void |  |
 | scale(x:Float, y:Float):Void |  |
 | translate(x:Float, y:Float):Void |  |
-
-

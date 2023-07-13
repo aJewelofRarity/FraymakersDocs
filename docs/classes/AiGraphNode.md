@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AiGraphNode
 ---
 
@@ -10,5 +10,3 @@ title: AiGraphNode
 | getType():Int |  |
 | setX(pos:Float):Float |  |
 | setY(pos:Float):Float |  |
-
-

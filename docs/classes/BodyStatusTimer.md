@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: BodyStatusTimer
 ---
 
@@ -8,5 +8,3 @@ title: BodyStatusTimer
 | Field Name | Type | Initial Value | Description |
 | ------------ | ------ | --------------- | ------------- |
 | bodyStatus | Int | `n/a` |  |
-
-

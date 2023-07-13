@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Tile
 ---
 
@@ -38,5 +38,3 @@ title: Tile
 | setPosition(x:Float, y:Float):Void |  |
 | setSize(w:Float, h:Float):Void |  |
 | switchTexture(t:Tile):Void |  |
-
-

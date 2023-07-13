@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: LandType
 ---
 
@@ -12,5 +12,3 @@ title: LandType
 | NONE | Int | `n/a` | The engine will not handle landing at all, and you'll instead just float above the ground. |
 | NORMAL | Int | `n/a` | The engine will perform landing-associated code, and will attempt to send to the LAND state and change animations. Can be overridden. |
 | TOUCH | Int | `n/a` | The engine will perform landing-associated code but otherwise will not do anything. |
-
-

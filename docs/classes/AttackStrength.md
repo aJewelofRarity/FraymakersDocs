@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AttackStrength
 ---
 
@@ -19,5 +19,3 @@ title: AttackStrength
 | Function Name | Description |
 | --------------- | ------------- |
 | constToString(value:Int):String | Translates constant to a user-readable string. |
-
-

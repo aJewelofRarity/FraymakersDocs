@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: BodyStatus
 ---
 
@@ -16,5 +16,3 @@ title: BodyStatus
 | LAUNCH_RESISTANCE | Int | `n/a` | Prevents damage and flinching up to the amount of knockback velocity specified by the bodyStatusStrength AnimationStats field. Attacking foes will still receive selfHitstop, and if the threshold is exceeded the amount of knockback velocity received will be reduced by the amount specified by bodyStatusStrength. |
 | NONE | Int | `n/a` | No effect. |
 | SUPER_ARMOR | Int | `n/a` | Prevents flinching. Damage will still be received, and attacking foes will still receive selfHitstop. |
-
-

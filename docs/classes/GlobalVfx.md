@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: GlobalVfx
 ---
 
@@ -53,5 +53,3 @@ title: GlobalVfx
 | SPARKLE_LIGHT | String | `n/a` |  |
 | SPIKE | String | `n/a` |  |
 | SPIKE_BACK | String | `n/a` |  |
-
-

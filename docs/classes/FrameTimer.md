@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: FrameTimer
 ---
 
@@ -26,5 +26,3 @@ title: FrameTimer
 | finish():Void |  |
 | reset():Void |  |
 | tick(amount?:Int):Void |  |
-
-

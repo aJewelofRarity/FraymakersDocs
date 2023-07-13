@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CharacterStats
 ---
 
@@ -75,5 +75,3 @@ title: CharacterStats
 | walkSpeedAcceleration | Float | `1` | Character's walk speed acceleration. |
 | walkSpeedCap | Float | `1` | Character's max walk speed. |
 | walkSpeedInitial | Float | `1` | Character's initial walk speed. |
-
-

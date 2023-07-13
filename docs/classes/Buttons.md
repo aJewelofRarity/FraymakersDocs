@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Buttons
 ---
 
@@ -32,5 +32,3 @@ Constants representing each possible button inputs.
 | TAP_JUMP | Int | `n/a` |  |
 | TILT | Int | `n/a` |  |
 | UP | Int | `n/a` |  |
-
-

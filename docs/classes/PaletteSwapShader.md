@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: PaletteSwapShader
 ---
 
@@ -8,5 +8,3 @@ title: PaletteSwapShader
 | Field Name | Type | Initial Value | Description |
 | ------------ | ------ | --------------- | ------------- |
 | paletteMap | Map<Int,Int> | `n/a` |  |
-
-

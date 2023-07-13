@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CollisionArea
 ---
 
@@ -14,5 +14,3 @@ title: CollisionArea
 | hitTestPoint(x:Float, y:Float, shapeFlag?:Bool):Bool |  |
 | hitTestRect(rect:Rectangle, shapeFlag?:Bool):Bool |  |
 | updateCollisionAreaStats(stats:CollisionAreaStatsProps):Void |  |
-
-

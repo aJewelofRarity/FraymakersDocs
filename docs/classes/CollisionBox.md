@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CollisionBox
 ---
 
@@ -41,5 +41,3 @@ title: CollisionBox
 | copyFrom(collisionBox:CollisionBox):Void |  |
 | equals(collisionBox:CollisionBox):Bool |  |
 | hitTest(theirCollisionBox:CollisionBox, selfLocation:TPoint, thatLocation:TPoint, selfScale:TPoint, thatScale:TPoint, selfRotation:Float, thatRotation:Float, selfPivot:TPoint, thatPivot:TPoint):Rectangle | Compare hit boxes from self and the provided hit box |
-
-

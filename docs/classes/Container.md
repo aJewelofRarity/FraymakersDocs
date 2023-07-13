@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Container
 ---
 
@@ -17,5 +17,3 @@ title: Container
 | addChild(displayObjectApi:DisplayObject):Void |  |
 | addChildAt(displayObjectApi:DisplayObject, index:Int):Void |  |
 | removeChild(displayObjectApi:DisplayObject):Void |  |
-
-

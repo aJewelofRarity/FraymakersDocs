@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: GameTimerEvent
 ---
 
@@ -25,5 +25,3 @@ Event that represents changes in a Control instance.
 | Field Name | Type | Initial Value | Description |
 | ------------ | ------ | --------------- | ------------- |
 | data | IGameTimerEventData | `n/a` |  |
-
-

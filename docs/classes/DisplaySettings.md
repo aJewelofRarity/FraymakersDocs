@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: DisplaySettings
 ---
 
@@ -12,5 +12,3 @@ title: DisplaySettings
 | vsync | Bool | `n/a` |  |
 | windowHeight | Int | `n/a` |  |
 | windowWidth | Int | `n/a` |  |
-
-

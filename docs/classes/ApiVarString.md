@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ApiVarString
 ---
 
@@ -9,5 +9,3 @@ title: ApiVarString
 | --------------- | ------------- |
 | get():String |  |
 | set(value:String):String |  |
-
-

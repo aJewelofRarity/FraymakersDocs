@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: EntityType
 ---
 
@@ -29,5 +29,3 @@ Api-facing EntityType type constants
 | Function Name | Description |
 | --------------- | ------------- |
 | constToString(value:Int):String | Translates constant to a user-readable string. |
-
-

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ApiVarInt
 ---
 
@@ -13,5 +13,3 @@ title: ApiVarInt
 | inc():Int |  |
 | mult(value:Float):Int |  |
 | set(value:Float):Int |  |
-
-

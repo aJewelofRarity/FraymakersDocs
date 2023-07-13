@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Mask
 ---
 
@@ -18,5 +18,3 @@ title: Mask
 | addChild(displayObjectApi:DisplayObject):Void |  |
 | addChildAt(displayObjectApi:DisplayObject, index:Int):Void |  |
 | removeChild(displayObjectApi:DisplayObject):Void |  |
-
-

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CollisionBoxType
 ---
 
@@ -27,5 +27,3 @@ title: CollisionBoxType
 | PIVOT | Int | `13` |  |
 | REFLECT | Int | `11` |  |
 | SHIELD | Int | `7` |  |
-
-

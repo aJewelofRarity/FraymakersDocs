@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Engine
 ---
 
@@ -13,5 +13,3 @@ title: Engine
 | framesToTimeStringShort(numFrames:Int):String | Returns formatted timestamp given # of frames. Does not include milliseconds.<br> |
 | log(msg:Dynamic, color?:Int):Void |  |
 | makeUid():Int |  |
-
-

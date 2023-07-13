@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Random
 ---
 
@@ -15,5 +15,3 @@ title: Random
 | getUnseededInt(from:Int, to:Int):Int |  |
 | getUnseededValue():Float |  |
 | getValue():Float |  |
-
-

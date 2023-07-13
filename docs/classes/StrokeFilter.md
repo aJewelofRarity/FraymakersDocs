@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: StrokeFilter
 ---
 
@@ -9,5 +9,3 @@ title: StrokeFilter
 | ------------ | ------ | --------------- | ------------- |
 | color | Int | `n/a` |  |
 | size | Int | `n/a` |  |
-
-

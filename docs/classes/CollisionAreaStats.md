@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CollisionAreaStats
 ---
 
@@ -10,5 +10,3 @@ title: CollisionAreaStats
 | disabled | Bool | `false` | When true, this CollisionArea instance should become inactive and all hitTests should return false. |
 | startX | Float | `0` | Starting X position of the collision area. |
 | startY | Float | `0` | Starting Y position of the collision area. |
-
-

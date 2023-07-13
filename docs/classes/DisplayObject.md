@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: DisplayObject
 ---
 
@@ -29,5 +29,3 @@ title: DisplayObject
 | kill():Void |  |
 | remove():Void |  |
 | removeFilter(filter:Filter):Void |  |
-
-

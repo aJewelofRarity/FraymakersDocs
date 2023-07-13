@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: TFrameTimer
 ---
 
@@ -19,5 +19,3 @@ title: TFrameTimer
 | finish():Void |  |
 | reset():Void |  |
 | tick(amount?:Int):Void |  |
-
-

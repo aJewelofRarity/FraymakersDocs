@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: HitboxStats
 ---
 
@@ -56,5 +56,3 @@ title: HitboxStats
 | --------------- | ------------- |
 | afterImportJSON(data:Dynamic):Void |  |
 | updateMetadata(data:Dynamic):Void | Utility function for updating the metadata object of the stats without changing the metadata object's reference. Performs a shallow merge of all fields from the input data <br>Parameters:<br>- **data** - The data to merge into the metadata |
-
-

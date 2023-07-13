@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ApiVarArray
 ---
 
@@ -9,5 +9,3 @@ title: ApiVarArray
 | --------------- | ------------- |
 | get():Array<Dynamic> |  |
 | set(value:Array<Dynamic>):Array<Dynamic> |  |
-
-

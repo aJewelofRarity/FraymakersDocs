@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: RgbaColorShader
 ---
 
@@ -16,5 +16,3 @@ title: RgbaColorShader
 | greenOffset | Float | `n/a` |  |
 | redMultiplier | Float | `n/a` |  |
 | redOffset | Float | `n/a` |  |
-
-

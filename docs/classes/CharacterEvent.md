@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CharacterEvent
 ---
 
@@ -33,5 +33,3 @@ CharacterEvent class represents events that occur within a Character
 | Field Name | Type | Initial Value | Description |
 | ------------ | ------ | --------------- | ------------- |
 | data | ICharacterEventData | `n/a` |  |
-
-

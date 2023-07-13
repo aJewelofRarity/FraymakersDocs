@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CameraEvent
 ---
 
@@ -24,5 +24,3 @@ CameraEvent class represents events that are specific to the game camera
 | Field Name | Type | Initial Value | Description |
 | ------------ | ------ | --------------- | ------------- |
 | data | ICameraEventData | `n/a` |  |
-
-

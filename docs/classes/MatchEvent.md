@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: MatchEvent
 ---
 
@@ -31,5 +31,3 @@ Event that represents changes in a Control instance.
 | Field Name | Type | Initial Value | Description |
 | ------------ | ------ | --------------- | ------------- |
 | data | IMatchEventData | `n/a` |  |
-
-

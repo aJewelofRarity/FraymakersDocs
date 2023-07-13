@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Vfx
 ---
 
@@ -11,5 +11,3 @@ title: Vfx
 | getSprite():Sprite |  |
 | getType():Int |  |
 | unattachFromObject():Void |  |
-
-

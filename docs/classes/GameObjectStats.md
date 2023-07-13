@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: GameObjectStats
 ---
 
@@ -45,5 +45,3 @@ Stats for a tangible ingame object that appears in a match.
 | stateTransitionMapOverrides | StateTransitionMap | `null` | Map of states to animations/callbacks |
 | terminalVelocity | Float | `0` | The terminal velocity of the owner Entity. This is the maximum limit to the speed at which an Entity can fall. Please note however that knockback is not taken into account. |
 | weight | Float | `100` | Used to determine how hard the ground shakes when the Entity lands or hits a wall, also used to determine how light the Entity is for knockback velocity purposes. |
-
-

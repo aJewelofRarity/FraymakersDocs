@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: StringMap
 ---
 
@@ -13,5 +13,3 @@ title: StringMap
 | keys():Iterator |  |
 | remove(key:String):Bool |  |
 | set(key:String, value:Dynamic):Void |  |
-
-

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: StatusEffect
 ---
 
@@ -18,5 +18,3 @@ Aggregates a group of StatusEffectObjects into a collective status effect.
 | --------------- | ------------- |
 | getProduct():Float |  |
 | getSum():Float |  |
-
-

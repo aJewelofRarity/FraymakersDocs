@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: NineSlice
 ---
 
@@ -15,5 +15,3 @@ title: NineSlice
 | Field Name | Type | Initial Value | Description |
 | ------------ | ------ | --------------- | ------------- |
 | tile | Tile | `n/a` |  |
-
-

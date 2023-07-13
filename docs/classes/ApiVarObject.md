@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ApiVarObject
 ---
 
@@ -9,5 +9,3 @@ title: ApiVarObject
 | --------------- | ------------- |
 | get():Dynamic |  |
 | set(value:Dynamic):Dynamic |  |
-
-

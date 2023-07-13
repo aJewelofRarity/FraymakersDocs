@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Structure
 ---
 
@@ -16,5 +16,3 @@ title: Structure
 | removeFromBlacklist(gameObject:GameObject):Void |  |
 | removeFromWhitelist(gameObject:GameObject):Void |  |
 | updateStructureStats(stats:StructureStatsProps):Void |  |
-
-

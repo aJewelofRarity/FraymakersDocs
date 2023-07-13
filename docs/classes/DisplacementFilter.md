@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: DisplacementFilter
 ---
 
@@ -17,5 +17,3 @@ title: DisplacementFilter
 | Function Name | Description |
 | --------------- | ------------- |
 | setNormalMap(value:Tile):Void |  |
-
-

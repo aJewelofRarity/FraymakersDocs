@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ADisposable
 ---
 
@@ -8,5 +8,3 @@ title: ADisposable
 | Function Name | Description |
 | --------------- | ------------- |
 | dispose():Void |  |
-
-

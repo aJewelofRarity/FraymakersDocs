@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: MatchSettingsConfig
 ---
 
@@ -38,5 +38,3 @@ A class containing parameters that configures the default settings of a Match.<b
 | teamAttack | Bool | `false` | Controls whether friendly fire is enabled.  <br> - When set to true, teammates can hurt each other.  <br> - This has no effect outside of team battles. |
 | teams | Bool | `false` | Set to true to make the match a team battle. Set to false for a free-for-all.<br> - When having a team battle make sure to assign each player (via PlayerConfig) to a team. |
 | time | Float | `0` | Match game timer IN SECONDS.  <br> - Set negative to count up from 0 to value.   <br> - Set positive to count down from value.  <br> - Set to 0 to disable. |
-
-

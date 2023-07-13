@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AssistEvent
 ---
 
@@ -11,5 +11,3 @@ Class containing all AssistEvent constants.
 | ------------ | ------ | --------------- | ------------- |
 | CHARGED | Int | `null` |  |
 | CUTIN | Int | `null` |  |
-
-

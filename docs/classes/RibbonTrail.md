@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: RibbonTrail
 ---
 
@@ -22,5 +22,3 @@ title: RibbonTrail
 | start(x:Float, y:Float):Void |  |
 | stop():Void |  |
 | updatePosition(x:Float, y:Float):Void |  |
-
-

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: GameObjectEvent
 ---
 
@@ -46,5 +46,3 @@ GameObjectEvent class represents events that occur within a GameObject
 | Field Name | Type | Initial Value | Description |
 | ------------ | ------ | --------------- | ------------- |
 | data | IGameObjectEventData | `n/a` |  |
-
-

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CustomGameObject
 ---
 
@@ -9,5 +9,3 @@ title: CustomGameObject
 | --------------- | ------------- |
 | getType():Int |  |
 | updateAnimationStats(stats:Dynamic):Void |  |
-
-

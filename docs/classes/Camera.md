@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Camera
 ---
 
@@ -35,5 +35,3 @@ title: Camera
 | setMode(mode:Int):Int |  |
 | shake(intensity:Float, duration?:Int, frequency?:Float, waveType?:Int, decayType?:Int, customWaveSamples?:Array<Float>, customDecaySamples?:Array<Float>):Void |  |
 | verticalShake(intensity:Float, duration?:Int, frequency?:Float, waveType?:Int, decayType?:Int, customWaveSamples?:Array<Float>, customDecaySamples?:Array<Float>):Void |  |
-
-

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Character
 ---
 
@@ -47,5 +47,3 @@ title: Character
 | setLives(lives:Int):Void |  |
 | updateAnimationStats(stats:Dynamic):Void |  |
 | updateCharacterStats(stats:CharacterStatsProps):Void |  |
-
-

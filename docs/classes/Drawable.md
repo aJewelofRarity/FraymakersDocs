@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Drawable
 ---
 
@@ -16,5 +16,3 @@ title: Drawable
 | --------------- | ------------- |
 | addShader(shader:Shader):Void |  |
 | removeShader(shader:Shader):Void |  |
-
-

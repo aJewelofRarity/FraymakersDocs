@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: VfxStats
 ---
 
@@ -26,5 +26,3 @@ title: VfxStats
 | timeout | Int | `-1` | How long to wait in frames before the Vfx should be removed. This also affects how long fade out and shrink should last (default: 0 = no timeout) |
 | x | Float | `0` | Absolute x position of the Vfx |
 | y | Float | `0` | Absolute y position of the Vfx |
-
-

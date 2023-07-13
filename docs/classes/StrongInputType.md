@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: StrongInputType
 ---
 
@@ -12,5 +12,3 @@ title: StrongInputType
 | NO_STRONG | Int | `-1` |  |
 | RIGHT_STRONG | Int | `0` |  |
 | UP_STRONG | Int | `3` |  |
-
-

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CharacterAiScript
 ---
 
@@ -13,5 +13,3 @@ title: CharacterAiScript
 | getTargetFoe():Entity |  |
 | hasInputOverrides():Bool |  |
 | isRecovering():Bool |  |
-
-

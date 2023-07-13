@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: IntMap
 ---
 
@@ -13,5 +13,3 @@ title: IntMap
 | keys():Iterator |  |
 | remove(key:Int):Bool |  |
 | set(key:Int, value:Dynamic):Void |  |
-
-

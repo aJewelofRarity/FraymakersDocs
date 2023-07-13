@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Score
 ---
 
@@ -19,5 +19,3 @@ title: Score
 | selfDestructs | Int | `n/a` |  |
 | shieldCombo | Int | `n/a` |  |
 | timeDefeated | Int | `n/a` |  |
-
-

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AudioClip
 ---
 
@@ -20,5 +20,3 @@ title: AudioClip
 | pause():Void |  |
 | resume():Void |  |
 | stop():Void |  |
-
-

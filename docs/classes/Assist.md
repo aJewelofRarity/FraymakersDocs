@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Assist
 ---
 
@@ -8,5 +8,3 @@ title: Assist
 | Function Name | Description |
 | --------------- | ------------- |
 | getPortColor():Int |  |
-
-
