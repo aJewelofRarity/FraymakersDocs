@@ -1,5 +1,20 @@
+@import "{{ site.theme }}";
 
+.main-content {
+  @include large {
+    max-width: 75%;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
 
-.inner {
-  max-width: 75%;
+  @include medium {
+    padding: 2rem 4rem;
+    font-size: 1.1rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+    font-size: 1rem;
+  }
 }
