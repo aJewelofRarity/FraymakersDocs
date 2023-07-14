@@ -1,1 +1,4 @@
-# Adding a meter to your character
+---
+layout: default
+title: Adding a meter to your character
+---

@@ -15,11 +15,11 @@ description: Several open source projects to help you learn fraytools from exist
 
 ## Assists
 - [Assist Template](https://cdn.mcleodgaming.com/fraytools/downloads/17745ac3/fraymakers-assist-template-0.1.3.zip) (Fraymakers official template)
-- [Annie](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Assists/Annie)(Annie from Skullgirls by Chubs)
-- [Jotaro](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Assists/Jotaro)(Jotaro from JJBA by Chubs)
-- [Neco Arc](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Assists/NecoArc)(Neco Arc from Melty Blood by Chubs)
-- [Peacock](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Assists/Peacock)(Peacock from Skullgirls by Chubs)
-- [Touka](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Assists/Touka)(Touka from Utawarerumono by Chubs)
+- [Annie](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Assists/Annie) (Annie from Skullgirls by Chubs)
+- [Jotaro](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Assists/Jotaro) (Jotaro from JJBA by Chubs)
+- [Neco Arc](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Assists/NecoArc) (Neco Arc from Melty Blood by Chubs)
+- [Peacock](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Assists/Peacock) (Peacock from Skullgirls by Chubs)
+- [Touka](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Assists/Touka) (Touka from Utawarerumono by Chubs)
 - [Emote Player](https://github.com/Sethbones/Fraymakers-Workshop-Source-Repo/tree/main/Misc/Emote%20Player) (An assist that forces your character to emote by Seth)
 
 ## Stages
