@@ -12,3 +12,5 @@ description: Below is a list of Community made guides on various things you can 
 ## Stages
 
 ## Misc
+- [Guide to Manifest](manifest.md)
+- [Setting up a blender project for 3D characters](blender.md)

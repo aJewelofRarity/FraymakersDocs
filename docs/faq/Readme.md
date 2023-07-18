@@ -3,6 +3,7 @@ layout: default
 title: Fraytools FAQ
 description: A Collection of Questions frequently asked in the McLeodGaming Discord and answers to them
 ---
+<hr>
 
 ## What does "assets with conflicting GUIDs" mean and how would I fix that?
 

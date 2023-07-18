@@ -39,5 +39,6 @@ AnimationStats is the base class for animation behavior of GameObjects.
 | slideOff | Bool | `false` | Whether or not the character can slide off the edge of a floor. |
 | solid | Bool | `true` | Set to true and the object will push other solid animations when hurtboxes overlap, unless those objects are immovable or non-solid. |
 | storedChargePercent | Float | `0` | Not to be set directly - tracks the previously stored charge percentage |
+| terminalVelocity | Float | `-1` | Terminal velocity override for this animation. Resorts to default terminalVelocity GameObject stat when set to a negative value. |
 | xSpeedConservation | Float | `1` | Percentage of non-KB X Speed kept on frame 1 |
 | ySpeedConservation | Float | `1` | Percentage of non-KB Y Speed kept on frame 1 |
