@@ -27,6 +27,8 @@ description: Several open source projects to help you learn fraytools from exist
 - [Box Viewer](https://github.com/PsnDth/BoxViewer) (Stage to display collisions by PsnDth)
 - [KartFighter](https://github.com/Sethbones/Fraymakers-Workshop-Source-Repo/tree/main/Stages/KartFighter) (A recreation of Kart Fighter in Fraymakers by Seth)
 - [Hot Foot](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Stages/FloorIsLava) (A stage where touching the ground can be lethal by Chubs)
+- [Various Battlefield Variants](https://github.com/Chig00/Fraymakers/tree/main/Battlefield) (Three Battlefield Variants by Chig)
+- [Various FD Variants](https://github.com/Chig00/Fraymakers/tree/main/Final%20Destination) (Two Final destination Variants by Chig)
 
 ## Misc
-- [Better CPU](https://drive.google.com/file/d/1vYFxLOTo1IWMBfqWvVXrcOJetBuNAOJh/view) (Contains a better AI file to make CPU's better by Snuffysam)
+- [Better CPU](https://drive.google.com/file/d/1T14Z72PwVzYPEohmvGtYq8cYYXFCTU1N/view?usp=sharing) (Contains a better AI file to make CPU's better by Snuffysam)
