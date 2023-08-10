@@ -24,6 +24,7 @@ description: Several open source projects to help you learn fraytools from exist
 
 ## Stages
 - [Stage Template](https://cdn.mcleodgaming.com/fraytools/downloads/17745ac3/fraymakers-stage-template-0.1.0.zip) (Fraymakers official template)
+- [Sound Stage](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Stages/SoundStageNew) (Sound stage from skull girls turned into a platform fighter stage)
 - [Box Viewer](https://github.com/PsnDth/BoxViewer) (Stage to display collisions by PsnDth)
 - [KartFighter](https://github.com/Sethbones/Fraymakers-Workshop-Source-Repo/tree/main/Stages/KartFighter) (A recreation of Kart Fighter in Fraymakers by Seth)
 - [Hot Foot](https://github.com/aJewelofRarity/FraymakersProjects/tree/master/Stages/FloorIsLava) (A stage where touching the ground can be lethal by Chubs)
